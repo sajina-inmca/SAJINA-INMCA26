@@ -1,0 +1,17 @@
+{
+  "id": "STU-001",
+  "name": {
+    "first": "Aarav",
+    "last": "Sharma"
+  },
+  "age": 16,
+  "grade": 11,
+  "school": "Example High School",
+  "email": "aarav.sharma@example.com",
+  "subjects": [
+    "Mathematics",
+    "Physics",
+    "Computer Science"
+  ],
+  "enrolled": true
+}
